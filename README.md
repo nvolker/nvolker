@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nvolker
-- 👀 I’m interested in Observability, Documentation, and Ruby on Rails
-- 🌱 I’m currently learning about Multipliers, Microservices, and Observability
-- 💞️ I’m looking to collaborate on interesting Gems and Observability related projects
+- 👀 I’m interested in Documentation, Observability, and Ruby on Rails
+- 🌱 I’m currently learning about Microservices, Multipliers, and Observability
+- 💞️ I’m looking to collaborate on interesting Ruby Gems and Observability related projects
 - 📫 How to reach me https://twitter.com/briefcoffeerun
 
 <!---
